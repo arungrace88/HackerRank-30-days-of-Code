@@ -10,3 +10,4 @@ test = [input() for i in range(T)]
 
 for i in range(T):
     even_odd(test[i])
+    
